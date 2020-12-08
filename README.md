@@ -6,6 +6,10 @@ Pursuing a [Machine Learning course](https://intellipaat.com/machine-learning-ce
 
 ![ML](https://intellipaat.com/course-image/2018/04/Advantages-Machine-Learning-Certification-Course.png) 
 
+### Why learn Machine Learning?
+
+Machine learning job profiles are in demand these days and it is really fun working on Machine learning. As mentioned, there are many things to be learnt in the learning process from reasoning ability to programming. One wont get bored throughout the learning phase. As per reports, Machine Learning is a most demanded job role in this digital world and as all things are getting automated and people want convenience these days, the demand is really on the higher side in this field. Also as per reports, average income of machine learning engineers is US $ 140,579 in the United States.
+
 ### How to learn Machine Learning?
 
 It is pretty simple to learn machine learning. There are humangous number of free as well as paid resources available out there on the internet and learn from it. Getting a professional [machine learning certification](https://intellipaat.com/machine-learning-certification-training-course/) will help you getting a good job in reputed MNC's as well. Although these certification courses are paid, but they will be worth it. These courses will start from very scratch, hence any beginner can pursue the course.
